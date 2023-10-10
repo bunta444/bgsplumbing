@@ -83,9 +83,9 @@ function About() {
 
       <section className="about-section mt-4">
         <div className="container">
+          <h2 className="display-5 text-center">About Us</h2>
           <div className="row pb-5">
             <div className="col-md-6">
-              <h2 className="display-5">About Us</h2>
               <p className="fs-5">
                 With history spanning over 19 years in the plumbing and HVAC
                 industries, our dedicated team possesses a wealth of experience
@@ -105,11 +105,7 @@ function About() {
               </p>
             </div>
             <div className="col-md-6">
-              <img
-                src="group.jpeg"
-                alt="Why Choose Us?"
-                className="img-fluid"
-              />
+              <img src="bgs.jpeg" alt="Why Choose Us?" className="img-fluid" />
             </div>
           </div>
         </div>
