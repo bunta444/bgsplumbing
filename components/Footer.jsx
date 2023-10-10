@@ -18,7 +18,7 @@ function Footer() {
           >
             <FontAwesomeIcon
               icon={faFacebook}
-              className="mb-2"
+              className="my-2"
               style={{ width: "2.5rem" }}
             />
           </a>
@@ -29,7 +29,7 @@ function Footer() {
           >
             <FontAwesomeIcon
               icon={faYelp}
-              className="mb-2 ms-3 text-danger"
+              className="my-2 text-danger"
               style={{ width: "2.5rem" }}
             />
           </a>

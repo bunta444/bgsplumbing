@@ -8,7 +8,7 @@ import SeeUsInAction from "@/components/WatchUs";
 
 export default function Home() {
   return (
-    <main>
+    <main className="bg-light">
       <Banner />
       <Hero />
       <Services />

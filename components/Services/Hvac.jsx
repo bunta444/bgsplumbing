@@ -4,17 +4,17 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 const imageUrls = [
-  "IMG_6755.jpg",
-  "IMG_6754.jpg",
-  "IMG_6766.jpg",
-  "IMG_6767.jpg",
-  "IMG_6768.jpg",
-  "IMG_6769.jpg",
-  "IMG_6770.jpg",
-  "IMG_6772.jpg",
-  "IMG_6776.jpg",
-  "IMG_6777.jpg",
-  "IMG_6778.jpg",
+  "IMG_6755.jpeg",
+  "IMG_6754.jpeg",
+  "IMG_6766.jpeg",
+  "IMG_6767.jpeg",
+  "IMG_6768.jpeg",
+  "IMG_6769.jpeg",
+  "IMG_6770.jpeg",
+  "IMG_6772.jpeg",
+  "IMG_6776.jpeg",
+  "IMG_6777.jpeg",
+  "IMG_6778.jpeg",
 ];
 
 const MyCarousel = () => {
